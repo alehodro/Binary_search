@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // Работает с аргументами командной строки или принимает аргументы в консоли
 // тестирую гит
-
+12
 public class Main {
 
     public static void main(String[] args) {
