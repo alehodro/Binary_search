@@ -1,5 +1,7 @@
 package com.company;
 
+// Откуда взялись эти пакеты? com   и   company
+
 import java.util.Arrays;
 import java.util.Scanner;
 
